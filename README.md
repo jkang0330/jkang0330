@@ -14,7 +14,9 @@
 - Founder & web developer @ Ballün Studio
 
 🌐 Portfolio
+
 https://jkang0330.github.io
 
 📫 Connect with me
+
 - LinkedIn: https://www.linkedin.com/in/jie-kang-b13533324/

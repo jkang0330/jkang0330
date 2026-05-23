@@ -11,6 +11,7 @@
 - MeetNYC
 - Flask Workout Tracker
 - Personal Portfolio Website
+- Founder & web developer @ Ballün Studio
 
 🌐 Portfolio
 https://jkang0330.github.io

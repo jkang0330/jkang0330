@@ -1,4 +1,4 @@
-# Hi, I'm Jennifer (Jie) Kang 👋
+# Hi, I'm Jie (Jennifer) Kang 👋
 
 🎓 CS Student at Stevens Institute of Technology
 

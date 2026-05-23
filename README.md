@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Jennifer (Jie) Kang 👋
 
-<!--
-**jkang0330/jkang0330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Student at Stevens Institute of Technology
 
-Here are some ideas to get you started:
+💻 Interested in:
+- Full-Stack Development
+- AI & Machine Learning
+- Startups & Product Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects
+- MeetNYC
+- Flask Workout Tracker
+- Personal Portfolio Website
+
+🌐 Portfolio
+https://jkang0330.github.io
+
+📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/jie-kang-b13533324/

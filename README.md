@@ -20,3 +20,5 @@ https://jkang0330.github.io
 📫 Connect with me
 
 - LinkedIn: https://www.linkedin.com/in/jie-kang-b13533324/
+- Gmail: jenniferkang0330@gmail.com
+- Personal Website: www.itsjenniferkang.com

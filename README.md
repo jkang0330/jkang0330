@@ -21,17 +21,22 @@ I'm a Computer Science graduate student passionate about building practical, use
 * **Small Business Websites** — Websites designed and developed for local businesses
 * **Personal Portfolio** — Showcasing my development projects and experience
 
-## 🛠️ Tech
+## 🛠️ Tech Stack
 
-**Languages:** JavaScript · Python · Java · C++ · SQL · HTML · CSS
+**Languages:**
+JavaScript · TypeScript · Python · Java · C · C++ · SQL · HTML · CSS
 
-**Web:** React · Node.js · Express · Flask · Next.js
+**Frontend & Web:**
+React · Next.js · Tailwind CSS · Node.js · Express · Flask 
 
-**Database:** MongoDB · PostgreSQL
+**Databases:**
+MongoDB · PostgreSQL
 
-**AI/ML:** TensorFlow · Keras · Scikit-learn
+**AI & Machine Learning:**
+TensorFlow · Keras · Scikit-learn · Pandas · NumPy · Matplotlib · Neural Networks · Deep Learning · CNNs · RNNs · LSTMs · NLP · Computer Vision
 
-**Tools:** Git · GitHub · VS Code
+**Tools:**
+Git · GitHub · VS Code · Jupyter Notebook
 
 ## 🌐 Portfolio
 

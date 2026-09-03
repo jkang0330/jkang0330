@@ -25,7 +25,7 @@ I'm a Computer Science graduate student passionate about building practical, use
 
 **Languages:** JavaScript · Python · Java · C++ · SQL · HTML · CSS
 
-**Web:** React · Node.js · Express · Flask · Handlebars
+**Web:** React · Node.js · Express · Flask · Next.js
 
 **Database:** MongoDB · PostgreSQL
 
